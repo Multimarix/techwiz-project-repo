@@ -8,22 +8,22 @@ This is a solution to the Thrift Fashion Web Application Project from the yearly
 
 - [Overview](#overview)
   - [Problem Definition](#problem-definition)
-  - [Screenshots Of Working Pages](#screenshots)
-  - [Diagrams and Flowcharts](#diagrams)
+  - [Screenshots Of Working Pages](#screenshots-of-working-pages)
+  - [Diagrams and Flowcharts](#diagrams-and-flowcharts)
   - [Links](#links)
-- [Database Design](#databse)
-  - [Port Settings](#port)
-- [Source Code](#source)
-- [Test Data Used in the Project](#test-data)
-- [Processes](#process)
+- [Database Design](#database-design)
+  - [Port Settings](#port-settings)
+- [Source Code](#source-code)
+- [Test Data Used in the Project](#test-data-used-in-the-project)
+- [Processes](#processes)
   - [Built With](#built-with)
-  - [Project installation instructions](#project-installation)
+  - [Project installation instructions](#project-installation-instructions)
   - [Acknowledgements](#acknowledgements)
   
   
   ## Overview
   
-  ### The challenge
+  ### Problem Definition
   
   Users should be able to:
   
@@ -32,7 +32,7 @@ This is a solution to the Thrift Fashion Web Application Project from the yearly
   **Note: Delete this note and update it with the right data
   
   
-  ### Screenshot
+  ### Screenshots Of Working Pages
   
   ![](./screenshot.jpg)
   
