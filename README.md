@@ -12,7 +12,7 @@ This is a solution to the Thrift Fashion Web Application Project from the yearly
   - [Diagrams and Flowcharts](#diagrams-and-flowcharts)
   - [Links](#links)
 - [Database Design](#database-design)
-- [Api Documentation](#api-documentation)
+  - [Api Documentation](#api-documentation)
   - [Port Settings](#port-settings)
 - [Source Code](#source-code)
 - [Test Data Used in the Project](#test-data-used-in-the-project)
